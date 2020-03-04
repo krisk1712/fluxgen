@@ -4,7 +4,7 @@ session_start();
 <!DOCTYPE html>
 <html>
 <head>
-<title>Fluxgen</title>
+<title>Fluxgen login page</title>
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
