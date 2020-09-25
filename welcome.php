@@ -19,7 +19,7 @@ if(isset($_SESSION['log']))
 }
 else
 {
-	echo "please fill proper details";
+	echo "The detalis Provided are not sufficient Please change it..";
 	header("refresh:2;url=index.php");
 }
 
