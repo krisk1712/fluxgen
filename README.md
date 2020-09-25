@@ -1,5 +1,14 @@
 # fluxgen project
 
+
+#1 This is a web UI project
+
+* This project connecte to a custom DB and a php file to enter data of new ites.
+* the INventory managemt system base code with some linting of PHP code.
+* The code can be contibuted simply by adding functionaly of bootstrap.
+
+
+
 * This is a login project
 
 * git init
